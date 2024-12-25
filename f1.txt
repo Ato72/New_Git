@@ -1,2 +1,1 @@
-Welcome to Java Classes
-Welcome to Java Classes
+welcome to python class
