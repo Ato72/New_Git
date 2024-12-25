@@ -8,3 +8,4 @@ Welcome to VPC
 Welcome NAT
 Welcome to Sonar
 Welcome to Jenkins
+Welcome to Azure
