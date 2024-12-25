@@ -6,3 +6,5 @@ Welcome to AWS DevOps learning
 Welcome S3 bucket
 Welcome to VPC
 Welcome NAT
+Welcome to Sonar
+Welcome to Jenkins
